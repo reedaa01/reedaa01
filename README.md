@@ -199,35 +199,19 @@ Un portfolio statique déployé sur EC2 dans un VPC personnalisé, avec une conf
 
 ---
 
-## `05` / Feuille de route
-
-```text
-● MAINTENANT Terraform            Construire des modules réutilisables et prêts pour la production
-│
-◆ PROCHAINE  Microsoft Azure      Concevoir des fondations Cloud sécurisées et résilientes
-│
-◇ ENSUITE     AWS                  Développer une maîtrise des architectures multi-Cloud
-│
-◇ PLUS TARD  CKA                  Valider mon expertise opérationnelle Kubernetes
-│
-└─ CAP ★     Ingénierie plateforme Créer des plateformes fiables pour les équipes produit
-```
-
----
-
-## `06` / Indicateurs d’activité
+## `05` / Indicateurs d’activité
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reedaa01&show_icons=true&hide_border=true&bg_color=00000000&title_color=46B9FF&icon_color=0078D4&text_color=C9D1D9&ring_color=0078D4&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reedaa01&show_icons=true&hide_border=true&bg_color=00000000&title_color=0078D4&icon_color=0078D4&text_color=0B2447&ring_color=0078D4&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reedaa01&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=0B2447&rank_icon=github" alt="Statistiques GitHub de Rida" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" alt="Statistiques GitHub de Rida" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reedaa01&layout=compact&hide_border=true&bg_color=00000000&title_color=46B9FF&text_color=C9D1D9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reedaa01&layout=compact&hide_border=true&bg_color=00000000&title_color=0078D4&text_color=0B2447&langs_count=8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reedaa01&layout=compact&hide_border=true&title_color=0078D4&text_color=0B2447&langs_count=8" alt="Langages les plus utilisés" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" alt="Langages les plus utilisés" />
 </picture>
 
 <picture>
@@ -256,7 +240,7 @@ Un portfolio statique déployé sur EC2 dans un VPC personnalisé, avec une conf
 
 <a id="connect"></a>
 
-## `07` / Restons en contact
+## `06` / Restons en contact
 
 <div align="center">
 
