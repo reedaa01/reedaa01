@@ -33,48 +33,88 @@
 
 ---
 
-## `01` / Ingénieur Cloud en devenir
+## `01` / Indicateurs d’activité
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" alt="Statistiques GitHub de Rida" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" alt="Langages les plus utilisés" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&background=00000000&ring=0078D4&fire=46B9FF&currStreakLabel=46B9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&background=00000000&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&sideLabels=0B2447&dates=526777&currStreakNum=0B2447&sideNums=0B2447" />
+  <img src="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="Série de contributions GitHub" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=46B9FF&line=0078D4&point=FFFFFF&area=true&area_color=0078D4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=ffffff&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" alt="Graphique d’activité des contributions GitHub" />
+</picture>
+
+<details>
+<summary><strong>🏆 Réalisations en logiciel libre</strong></summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=reedaa01&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophées des réalisations GitHub" />
+</details>
+
+<sub>Le calendrier natif des contributions est disponible sur <a href="https://github.com/reedaa01">la page d’accueil de mon profil GitHub</a>. Une animation des contributions pourra être ajoutée lorsqu’un workflow de génération pourra être intégré sans compromettre ce dépôt composé uniquement du README.</sub>
+
+</div>
+
+---
+
+## `02` / Profil professionnel
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Qui suis-je ?
+### ☁️ Futur ingénieur Réseaux & Cloud
 
-Je suis ingénieur Cloud & DevOps Junior. Je transforme les défis d’infrastructure en systèmes reproductibles, observables et sécurisés.
+Étudiant en cycle d’ingénieur à **SUPMTI**, diplômé en 2027, passionné par le Cloud, l’automatisation et les pratiques DevOps.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Objectif actuel
+### 🎓 Formation
 
-Concevoir des environnements Azure, des plateformes Kubernetes et des pipelines de livraison fiables, du commit jusqu’à la production.
+**Cycle d’ingénieur — Réseaux & Cloud** · SUPMTI · 2024–2027  
+**Diplôme de technicien spécialisé** · OFPPT · 2022–2024
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 En cours d’apprentissage
+### ⚙️ Expérience pratique
 
-Approfondir Terraform, l’architecture Azure, l’exploitation de Kubernetes, GitOps, la supervision et les pratiques de fiabilité Cloud.
+Développement et déploiement d’applications conteneurisées sur **Azure VM** avec **GitHub Actions**, supervisées par **Prometheus** et **Grafana**.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Ma direction
+### 🎯 Objectif professionnel
 
-Devenir ingénieur Cloud / Plateforme / DevOps et créer des plateformes qui permettent aux équipes de livrer efficacement, en toute sécurité et en autonomie.
+Rejoindre une équipe en **CDI ou pré-embauche** comme Ingénieur Cloud & DevOps Junior et contribuer à des infrastructures fiables, automatisées et observables.
 
 </td>
 </tr>
 </table>
 
-> **Philosophie d’ingénierie** — Automatiser ce qui se répète. Observer ce qui est critique. Documenter l’imprévu. Garder chaque système suffisamment simple pour être exploité sous pression.
+> **Mon approche** — Relier les fondamentaux réseau aux pratiques Cloud modernes : conteneuriser, automatiser les livraisons, superviser les systèmes et documenter chaque étape.
 
 ---
 
-## `02` / Boîte à outils technique
+## `03` / Boîte à outils technique
 
 <div align="center">
 
@@ -94,7 +134,7 @@ Devenir ingénieur Cloud / Plateforme / DevOps et créer des plateformes qui per
 
 <a id="featured-projects"></a>
 
-## `03` / Projets phares
+## `04` / Projets phares
 
 <table>
 <tr>
@@ -173,74 +213,9 @@ Un portfolio statique déployé sur EC2 dans un VPC personnalisé, avec une conf
 
 ---
 
-## `04` / Parcours de certification
-
-<details open>
-<summary><strong>☁️ Certifications Cloud & Infrastructure</strong></summary>
-<br/>
-
-![Azure](https://img.shields.io/badge/Azure-En_cours-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Planifi%C3%A9-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-En_cours-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Planifi%C3%A9-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>🐧 Linux & formation continue</strong></summary>
-<br/>
-
-![Linux](https://img.shields.io/badge/Linux-Apprentissage_continu-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![Coursera](https://img.shields.io/badge/Coursera-Formations-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-<!-- Ajouter les futurs badges de certification vérifiés dans ce bloc extensible. -->
-
-</details>
-
----
-
-## `05` / Indicateurs d’activité
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reedaa01&theme=default" alt="Statistiques GitHub de Rida" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reedaa01&theme=default" alt="Langages les plus utilisés" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&background=00000000&ring=0078D4&fire=46B9FF&currStreakLabel=46B9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&background=00000000&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&sideLabels=0B2447&dates=526777&currStreakNum=0B2447&sideNums=0B2447" />
-  <img src="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="Série de contributions GitHub" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=46B9FF&line=0078D4&point=FFFFFF&area=true&area_color=0078D4&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=ffffff&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" alt="Graphique d’activité des contributions GitHub" />
-</picture>
-
-<details>
-<summary><strong>🏆 Réalisations en logiciel libre</strong></summary>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=reedaa01&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophées des réalisations GitHub" />
-</details>
-
-<sub>Le calendrier natif des contributions est disponible sur <a href="https://github.com/reedaa01">la page d’accueil de mon profil GitHub</a>. Une animation des contributions pourra être ajoutée lorsqu’un workflow de génération pourra être intégré sans compromettre ce dépôt composé uniquement du README.</sub>
-
-</div>
-
----
-
 <a id="connect"></a>
 
-## `06` / Restons en contact
+## `05` / Restons en contact
 
 <div align="center">
 
