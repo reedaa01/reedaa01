@@ -54,11 +54,7 @@
   <img src="https://streak-stats.demolab.com?user=reedaa01&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="Série de contributions GitHub" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=46B9FF&line=0078D4&point=FFFFFF&area=true&area_color=0078D4&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=00000000&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=reedaa01&bg_color=ffffff&color=0B2447&line=0078D4&point=073B73&area=true&area_color=46B9FF&hide_border=true" alt="Graphique d’activité des contributions GitHub" />
-</picture>
+
 
 <details>
 <summary><strong>🏆 Réalisations en logiciel libre</strong></summary>
